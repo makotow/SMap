@@ -1,4 +1,5 @@
 SMap
 ====
 
-scala portscana
+scala port scan utility.
+Just Practie.
